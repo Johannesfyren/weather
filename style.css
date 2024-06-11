@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+.weather-container{
+    height: 500px;
+    width: 1000px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    gap:20px;
+}
+
+.weather-card{
+    flex:1;
+    background-color: rgb(197, 227, 237);
+}
